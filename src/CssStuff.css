@@ -1,0 +1,22 @@
+.this-is-a-class {
+    height: 400px;
+    width: 400px;
+    background: lightcoral;
+}
+
+#this-is-a-id {
+    background: lightgreen;
+}
+
+.className-2 {
+    background: lightgrey;
+}
+
+#this-is-a-id > h5 {
+    background: lightseagreen;
+    color: black;
+}
+
+.this-is-a-id + h6 {
+    background: lightslategrey;
+}
